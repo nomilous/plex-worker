@@ -1,0 +1,17 @@
+{
+  "name": "plex-worker",
+  "description": "[PENDING] Worker Parallel PubSub with Promises (node.js)",
+  "version": "0.0.0",
+  "author": "nomilous <nomilous@gmail.com>",
+  "contributors": [
+    {
+      "name": "nomilous",
+      "email": "nomilous@gmail.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": "git@github.com:nomilous/plex-worker.git"
+}
